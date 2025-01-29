@@ -26,6 +26,7 @@ MetaDome is aimed at professionals in the (bio-)medical field of human genetics 
 ### Notable Achievements
 
 * MetaDome was added as a UCSC Genome Browser [human constraint scores track](https://genome.ucsc.edu/cgi-bin/hgTrackUi?hgsid=1735422030_sAYmaQ0c58lMHr1JWvkyZ4gtGBGI&db=hg38&c=chr1&g=constraintSuper) in 2021
+* MetaDome was added as a track to [MobiDetails](https://mobidetails.iurc.montp.inserm.fr/MD/about) in 2020
 * The [MetaDome publication]((https://doi.org/10.1002/humu.23798)) was a Top Accessed Human Mutation Article in 2019 and Top Cited in 2020
 * Editor's Choice Article of [Human Mutation](https://doi.org/10.1002/humu.23798)
 * Featured on the Front Cover of [Human Mutation](https://doi.org/10.1002/humu.23892)
