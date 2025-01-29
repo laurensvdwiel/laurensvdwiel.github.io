@@ -14,5 +14,8 @@ main:
   - title: "Software"
     url: /software/
 
+  - title: "Media Coverage"
+    url: /media/
+
   - title: "Contact"
     url: /contact/
