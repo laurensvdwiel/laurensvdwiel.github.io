@@ -8,6 +8,7 @@ author_profile: true
 {% include toc %}
 
 A comprehensive overview including citation counts can be found on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+Some of my work has been featured in the media, see [here](/media).
 
 ## Selected Publications
 
