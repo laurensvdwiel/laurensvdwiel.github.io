@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at [Stanford University](https://profiles.stanford.edu/lvdwiel). 
+I am a [post-doctoral researcher](https://profiles.stanford.edu/lvdwiel) at [Stanford University](https://www.stanford.edu/). My research focuses on understanding the entire spectrum of genetic variation effects on protein function and structure to decipher molecular mechanisms of disease. Before I was a Ph.D. student at [Radboud University](https://www.ru.nl/english/) and a Data Scientist at [FLXone](https://www.linkedin.com/company/flxone/).
 
+I am interested in a variety of topics in Bioinformatics and Computer Science. In particular, I am interested in the application of Artificial Intelligence and Statistical Modelling to analyse human (Rare) Mendelian Disease Genetics, Evolutionary Comparative Genomics, Protein Domain Homology, and Molecular Structures. 
 
 ------
-MetaDome can be accessed [here](https://www.metadome.app).
+I developed [MetaDome](https://www.metadome.app) which is further detailed [here](/software/metadome). For a comprehensive overview of my software, please have a look [here](/software).
