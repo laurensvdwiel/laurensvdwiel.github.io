@@ -1,64 +1,33 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /research
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I am a [post-doctoral researcher](https://profiles.stanford.edu/lvdwiel) at [Stanford University](https://www.stanford.edu/) under supervision of [Matthew Wheeler](https://med.stanford.edu/profiles/matthew-wheeler) and [Stephen Montgomery](https://profiles.stanford.edu/stephen-montgomery). My research focuses on understanding the entire spectrum of genetic variation effects on protein function and structure to decipher molecular mechanisms of disease. 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Consortium Affiliations:
+* [Genomics Research to Elucidate the Genetics of Rare Diseases (GREGoR)](https://gregorconsortium.org/user/677)
+* [The Molecular Transducers of Physical Activity Consortium (MoTrPAC)](https://motrpac-data.org/team)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Before joining Stanford. I was received my Ph.D. at [Radboud University](https://www.ru.nl/english/) in 2021 for my [Thesis - "Interpreting genomic variation using protein structures and evolutionary information"](/files/PhD_Thesis_2021_Laurens_van_de_Wiel_Interpreting_genomic_variation_using_protein_structures_and_evolutionary_information.pdf) under supervision of [Christian Gilissen](https://www.radboudumc.nl/en/people/christian-gilissen), [Gert Vriend](https://www.ru.nl/english/people/vriend-g/), and [Joris Veltman](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/veltman-group). I was a Data Scientist at [FLXone](https://www.linkedin.com/company/flxone/), where I developed machine learning solutions within a large-scale, real-time infrastructure. I obtained my MSc degree from [Radboud University](https://www.ru.nl/english/) in 2014 for my [Thesis - "Differentiating Shigella from E. coli using hierarchical feature selection on MALDI-TOF MS Data"](/files/MSc_Thesis_2014_Laurens_van_de_wiel_Differentiating_Shigella_from_E_coli_using_hierarchical_feature_selection_on_MALDI-TOF_MS_Data.pdf) under supervision of [Tom Heskes](https://www.cs.ru.nl/~tomh/), [Evgeni Levin](https://www.linkedin.com/in/evgeni-levin-phd-747a14a0), and [Armand Paauw](https://www.linkedin.com/in/armand-paauw-04105510).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Some of my work has been featured in the media, see [here](/media).
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+I am interested in a variety of topics in Bioinformatics and Computer Science. In particular, I am interested in the application of Artificial Intelligence and Statistical Modelling to analyse human (Rare) Mendelian Disease Genetics, Evolutionary Comparative Genomics, Protein Domain Homology, and Molecular Structures.
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* 2021 - [Awarded](https://www.nwo.nl/en/researchprogrammes/rubicon/awarded-grants/awarded-rubicon-grants-2021) the [Rubicon](https://www.nwo.nl/en/researchprogrammes/rubicon) by the [Dutch Research Council (NWO/ZonMW)](https://www.nwo.nl/en)
+* 2021 - [Awarded](https://humanperformance.stanford.edu/news/announcing-the-2022-graduate-and-postdoctoral-scholars/) a honorary [Wu Tsai Human Performance Alliance](https://humanperformance.stanford.edu/) Fellowship
+* 2015 - [Awarded](/files/news/2015-1-Mercator-NovioTech-ENG_MSc_award.pdf) the **AIA Software Master Award 2014** for the [Best Master thesis in computing science](/files/MSc_Thesis_2014_Laurens_van_de_wiel_Differentiating_Shigella_from_E_coli_using_hierarchical_feature_selection_on_MALDI-TOF_MS_Data.pdf) of 2014
