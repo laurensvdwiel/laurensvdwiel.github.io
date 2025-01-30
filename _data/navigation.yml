@@ -6,7 +6,7 @@
 
 main:
   - title: "Professional Profile"
-    url: /cv/
+    url: /profile/
 
   - title: "Publications"
     url: /publications/
