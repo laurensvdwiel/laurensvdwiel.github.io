@@ -23,6 +23,11 @@ Some of my work has been featured in the media, see [here](/media).
 {: .notice}
 
 ---
+## 2025
+
+1. Y. Yamamoto, _et al._ **Scaled multidimensional assays of variant effect identify sequence-function relationships in hypertrophic cardiomyopathy.** [_bioRxiv preprint, May 2025_](https://doi.org/10.1101/2025.05.23.655878)
+
+---
 ## 2024
 
 1. M. Dawood, _et al._ **GREGoR: Accelerating Genomics for Rare Diseases.** [_arXiv preprint, December 2024_](https://arxiv.org/abs/2412.14338)
