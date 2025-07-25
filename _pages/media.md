@@ -9,7 +9,7 @@ author_profile: true
 
 **Academic work:**
 * Featuring my Rubicon Grant award: 
-  * The Dutch Research Council (NWO) - [22 research talents fan out over the world](http://nwo.nl/en/news/22-starting-research-talents-fan-out-all-over-world-rubicon) [[pdf](/files/news/2022-4_NWO_Rubicon.pdf)]
+  * The Dutch Research Council (NWO) - [22 research talents fan out over the world [pdf]](/files/news/2022-4_NWO_Rubicon.pdf)
   * Radboud University - [Rubicon-grant for three researchers Radboudumc](https://www.ru.nl/en/research/research-news/rubicon-grant-for-three-researchers-radboudumc) [[pdf](/files/news/2022-4_Rubicon-grant%20for%20three%20researchers%20Radboudumc%20-%20Radboud%20University.pdf)]
   * Radboud University Medical center - [Rubicon grants awarded to three RIMLS researchers](https://www.radboudumc.nl/en/news-items/2022/rubicon-grants-for-three-researchers-radboudumc) [[pdf](/files/news/2022-4_Rubicon%20grants%20awarded%20to%20three%20RIMLS%20researchers%20-%20Radboudumc.pdf)]
 * Featuring our 2020 [Nature](https://doi.org/10.1038/s41586-020-2832-5) article:
