@@ -2,9 +2,6 @@
 permalink: /
 title: "Laurens van de Wiel"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a [post-doctoral researcher](https://profiles.stanford.edu/lvdwiel) at [Stanford University](https://www.stanford.edu/). My research focuses on understanding the entire spectrum of genetic variation effects on protein function and structure to decipher molecular mechanisms of disease. Previously, I was a Ph.D. student at [Radboud University](https://www.ru.nl/english/) and a Data Scientist at [FLXone](https://www.linkedin.com/company/flxone/).

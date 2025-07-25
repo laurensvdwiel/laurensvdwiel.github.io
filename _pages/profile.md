@@ -3,10 +3,6 @@ layout: archive
 title: "Professional Profile"
 permalink: /profile/
 author_profile: true
-redirect_from:
-  - /resume
-  - /research
-  - /cv
 ---
 
 {% include base_path %}
