@@ -12,6 +12,7 @@ Some of my work has been featured in the media, see [here](/media).
 
 ## Selected Publications
 
+* M. Dawood, B. Heavner, M.M. Wheeler, R.A. Ungar, J. LoTempio, **_L. Wiel_**, _et al._ **GREGoR: Accelerating Genomics for Rare Diseases.** [_Nature, November 2025_](https://doi.org/10.1038/s41586-025-09613-8)
 * **_L. Wiel_**\*, J.E Hampstead\*, _et al._ **_de novo_ mutation hotspots in homologous protein domains identify function-altering mutations in neurodevelopmental disorders.** [_The American Journal of Human Genetics, January 2023_](https://doi.org/10.1016/j.ajhg.2022.12.001)
 * J. Kaplanis\*, K.E. Samocha\*, _**L. Wiel**_\*, Z. Zhang*, _et al._ **Evidence for 28 genetic disorders discovered by combining healthcare and research data.** [_Nature, Oct 2020_](https://doi.org/10.1038/s41586-020-2832-5)
 * **_L. Wiel_**, _et al._ **MetaDome: Pathogenicity analysis of genetic variants through aggregation of homologous human protein domains.** [_Human Mutation, May 2019._](https://doi.org/10.1002/humu.23798)
@@ -25,18 +26,18 @@ Some of my work has been featured in the media, see [here](/media).
 ---
 ## 2025
 
-1. I.B. Cooperstein, _et al._ **An optimized variant prioritization process for rare disease diagnostics: recommendations for Exomiser and Genomiser.** [_Genome Medicine, October 2025_](https://doi.org/10.1186/s13073-025-01546-1)
-2. M.T Arriaga, _et al._ **Transcriptome-wide outlier approach identifies individuals with minor spliceopathies.** [_American Journal of Human Genetics, September 2025_](https://doi.org/10.1016/j.ajhg.2025.08.018)
-3. S.N. Kobren, _et al._ **Joint, multifaceted genomic analysis enables diagnosis of diverse, ultra-rare monogenic presentations.** [_Nature Communications, August 2025_](https://doi.org/10.1038/s41467-025-61712-2)
-4. Y. Yamamoto, _et al._ **Scaled multidimensional assays of variant effect identify sequence-function relationships in hypertrophic cardiomyopathy.** [_bioRxiv preprint, May 2025_](https://doi.org/10.1101/2025.05.23.655878)
+1. M. Dawood, B. Heavner, M.M. Wheeler, R.A. Ungar, J. LoTempio, **_L. Wiel_**, _et al._ **GREGoR: Accelerating Genomics for Rare Diseases.** [_Nature, November 2025_](https://doi.org/10.1038/s41586-025-09613-8)
+2. I.B. Cooperstein, _et al._ **An optimized variant prioritization process for rare disease diagnostics: recommendations for Exomiser and Genomiser.** [_Genome Medicine, October 2025_](https://doi.org/10.1186/s13073-025-01546-1)
+3. M.T Arriaga, _et al._ **Transcriptome-wide outlier approach identifies individuals with minor spliceopathies.** [_American Journal of Human Genetics, September 2025_](https://doi.org/10.1016/j.ajhg.2025.08.018)
+4. S.N. Kobren, _et al._ **Joint, multifaceted genomic analysis enables diagnosis of diverse, ultra-rare monogenic presentations.** [_Nature Communications, August 2025_](https://doi.org/10.1038/s41467-025-61712-2)
+5. Y. Yamamoto, _et al._ **Scaled multidimensional assays of variant effect identify sequence-function relationships in hypertrophic cardiomyopathy.** [_bioRxiv preprint, May 2025_](https://doi.org/10.1101/2025.05.23.655878)
 
 ---
 ## 2024
 
-1. M. Dawood, _et al._ **GREGoR: Accelerating Genomics for Rare Diseases.** [_arXiv preprint, December 2024_](https://arxiv.org/abs/2412.14338)
-2. J.X. Chong, _et al._ **Considerations for reporting variants in novel candidate genes identified during clinical genomic testing.** [_Genetics in Medicine, October 2024._](https://doi.org/10.1016/j.gim.2024.101199)
-3. V.D. Nair, _et al._ **Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures.** [_Cell Genomics, May 2024._](https://doi.org/10.1016/j.xgen.2023.100421)
-4. D. Amar, _et al._ **The mitochondrial multi-omic response to exercise training across rat tissues.** [_Cell Metabolism, May 2024._](https://doi.org/10.1016/j.cmet.2023.12.021)
+1. J.X. Chong, _et al._ **Considerations for reporting variants in novel candidate genes identified during clinical genomic testing.** [_Genetics in Medicine, October 2024._](https://doi.org/10.1016/j.gim.2024.101199)
+2. V.D. Nair, _et al._ **Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures.** [_Cell Genomics, May 2024._](https://doi.org/10.1016/j.xgen.2023.100421)
+3. D. Amar, _et al._ **The mitochondrial multi-omic response to exercise training across rat tissues.** [_Cell Metabolism, May 2024._](https://doi.org/10.1016/j.cmet.2023.12.021)
 
 ---
 ## 2023
